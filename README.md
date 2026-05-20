@@ -105,7 +105,7 @@ I have explored and built solutions using tools and platforms such as:
 
 ## 📚 Research & Innovation
 
-- **4 Patents**
+- **6 Patents**
 - **9 Research Publications**
 - Experience across applied AI research, enterprise architecture, and production-oriented implementation
 - Strong focus on building AI solutions that bridge innovation, engineering, and business value
