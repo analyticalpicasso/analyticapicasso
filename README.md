@@ -139,8 +139,8 @@ I believe the next generation of AI systems will be shaped by the combination of
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: linked.com/in/analyticalpicasso/
-- ✍️ Medium: medium.com/analyticalpicasso
+- 💼 LinkedIn: [Sonam Sharma](https://www.linkedin.com/in/analyicalpicasso/)
+- ✍️ Medium: https://medium.com/@analyticalpicasso
 - 📧 Email: analyticalpicasso@gmail.com
 - 🌐 Portfolio: analyticalpicasso.com
 
